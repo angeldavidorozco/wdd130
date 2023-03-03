@@ -276,7 +276,7 @@ h2 {
 
 
 
-#question-panel ul{
+#question-panel {
 
     display: grid;
     grid-template-columns: 3fr 1fr;
@@ -304,7 +304,7 @@ h2 {
 
     display: inline-flex;
     max-width: 950px;
-    margin-left: 150px;
+    margin-left: 100px;
 }
 
 .imgq {
