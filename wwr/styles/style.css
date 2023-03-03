@@ -259,6 +259,7 @@ h2 {
     color: whitesmoke;
     text-align: left;
     display: flex;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
     
     
   }
@@ -290,11 +291,12 @@ h2 {
     border-radius: 50px;
 }
 
-#question-panel li{
+#question-panel h2{
 
 
   display: inline-flex;
   font-size: larger;
+  font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
   margin-left: 50px;
 
 }
@@ -303,6 +305,7 @@ h2 {
 #question-panel p{
 
     display: inline-flex;
+    font-family: Roboto, Helvetica, sans-serif;
     max-width: 950px;
     margin-left: 100px;
 }
