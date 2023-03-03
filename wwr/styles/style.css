@@ -29,7 +29,7 @@ a{
     padding: 35px;
 }
 nav a:hover{
-    background-color: #13293d;
+    background-color: #2a628f;
     color: white;
 }
 
@@ -67,7 +67,7 @@ body{
 }
 
 header{
-    background-color: #2a628f;
+    background-color: #13293d;
     display: grid;
     grid-template-columns: 150px auto;
     opacity: 70%;
@@ -236,6 +236,83 @@ h4{
 h2 {
     margin: 0;
     
+}
+
+#search-bar {
+
+    display: grid;
+    
+    grid-template-columns: 2fr 1fr;
+    margin: 50px 150px 50px 250px;
+    background-color: #13293d;
+    align-items: center;
+    justify-items: center;  
+
+    align-self: center;
+
+    border-radius: 50px;
+}
+
+#search-bar h1 {
+    
+    
+    color: whitesmoke;
+    text-align: left;
+    display: flex;
+    
+    
+  }
+
+#search-bar input[type=text] {
+
+    display: flex;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+
+}
+
+
+
+#question-panel ul{
+
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: auto;
+    
+    padding: 20px;
+    background-color: #13293d;
+    color: whitesmoke;
+    text-align: justify;
+
+    border-radius: 50px;
+}
+
+#question-panel li{
+
+
+  display: inline-flex;
+  font-size: larger;
+  margin-left: 50px;
+
+}
+
+
+#question-panel p{
+
+    display: inline-flex;
+    max-width: 950px;
+    margin-left: 150px;
+}
+
+.imgq {
+
+    justify-self: center;
+    align-self: center;
+    height: 250px;
+    width: auto;
 }
 
 
