@@ -260,6 +260,7 @@ h2 {
     text-align: left;
     display: flex;
     font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    margin-left: 20px;
     
     
   }
@@ -282,6 +283,7 @@ h2 {
     display: grid;
     grid-template-columns: 3fr 1fr;
     grid-template-rows: auto;
+    grid-column-gap: 20px;
     
     padding: 20px;
     background-color: #13293d;
@@ -316,6 +318,7 @@ h2 {
     align-self: center;
     height: 250px;
     width: auto;
+    margin-right: 20px;
 }
 
 
