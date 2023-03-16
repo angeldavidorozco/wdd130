@@ -74,6 +74,7 @@ nav a:hover{
     margin-left: 0px;
     font-size: 2vw;
     display: flex;
+    color: #0b090a;
     
 
 }
@@ -167,8 +168,6 @@ h1{
 
 }
 
-
-
 footer{
     background-color: #0b090a;
     color: white;
@@ -183,12 +182,15 @@ footer a{
     color: white;
     text-decoration: none;
 }
+
 footer p {
     font-size: 1.2em;
 } 
+
 footer a:hover{
     color: #ba181b;
 }
+
 footer p a:hover {
     text-decoration: underline;
 }
