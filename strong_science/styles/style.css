@@ -241,10 +241,7 @@ footer .social img{
   
   /* Style the accordion panel. Note: hidden by default */
 .panel {
-    /** padding: 0 18px;
-    background-color: white;
-    display: none;
-    overflow: hidden; **/
+   
     padding: 0 18px;
     background-color: #0b090a;
     max-height: 0;
