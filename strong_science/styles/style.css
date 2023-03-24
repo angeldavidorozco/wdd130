@@ -94,6 +94,12 @@ h1{
     font-family: "Rubik Mono One", sans-serif;
 }
 
+h2{
+
+    font-family: "Rubik Mono One", sans-serif;
+    
+}
+
 .purpose{
 
     display: grid;
@@ -279,18 +285,20 @@ footer .social img{
 
 }
 
-#diet-misconceptions h1{
+#diet-misconceptions h2{
 
 
     justify-self: left;
+    font-size: 1.8em;
 
 
 }
 
-#good-practices h1{
+#good-practices h2{
 
 
     justify-self: left;
+    font-size: 1.8em;
 
 
 }
