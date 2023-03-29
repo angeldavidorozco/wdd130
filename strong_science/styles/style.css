@@ -257,7 +257,7 @@ footer .social img{
     
 }
 
-#diet-misconceptions{
+#misconceptions{
 
     display: grid;
     /**grid-template-rows: 1fr 1fr;**/
@@ -282,7 +282,7 @@ footer .social img{
 
 }
 
-#diet-misconceptions h2{
+#misconceptions h2{
 
 
     justify-self: left;
@@ -326,7 +326,7 @@ footer .social img{
 
 }
 
-.diet-image{
+.image{
 
     margin: 10px;
     align-self: center;
